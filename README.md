@@ -1,6 +1,4 @@
-cd ~/osint-seek-inteligence
-
-cat << 'EOF' > README.md
+README.md
 # 🐋 OSINT-SEEK-INTELIGENT
 
 <div align="center">
